@@ -1,12 +1,11 @@
 
-[![MasterHead](https://dynamic.brandcrowd.com/template/preview/design/87e6826c-211a-469c-a422-63164aac2d02/79956184-7505-4638-bab8-d71bda77e0bd?v=4&designTemplateVersion=1&logoTemplateVersion=6&size=design-preview-wide-2x)]
+![MasterHead](https://dynamic.brandcrowd.com/template/preview/design/87e6826c-211a-469c-a422-63164aac2d02/79956184-7505-4638-bab8-d71bda77e0bd?v=4&designTemplateVersion=1&logoTemplateVersion=6&size=design-preview-wide-2x)
 <h1 align="center">Hi 👋, I'm Chirag Kapil</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragkapil03&label=Profile%20views&color=0e75b6&style=flat" alt="chiragkapil03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragkapil03" alt="chiragkapil03" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs & Express js**
 
