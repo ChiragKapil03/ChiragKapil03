@@ -2,7 +2,7 @@
 ![MasterHead](https://github.githubassets.com/assets/social-2deb6d7d43e7.jpg)
 <h1 align="center">Hi 👋, I'm Chirag Kapil</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" />
+
 
 
 
