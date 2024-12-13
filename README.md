@@ -1,5 +1,5 @@
 
-![MasterHead](https://github.githubassets.com/assets/social-2deb6d7d43e7.jpg)
+![MasterHead](https://www.codingem.com/wp-content/uploads/2022/11/git-how-to-clone-a-repo-to-a-specific-folder-1024x480.png)
 <h1 align="center">Hi 👋, I'm Chirag Kapil</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
